@@ -10,9 +10,9 @@ int main() {
     int X, Y, Z;
     X = Y = Z  = 10;
 
-    printf("%d", num1);
-    printf("%f", num2);
-    printf("%c", ch);
+    printf("%d\n", num1);
+    printf("%f\n", num2);
+    printf("%c\n", ch);
     return 0;
 
 }
