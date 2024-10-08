@@ -53,13 +53,5 @@ dkms.conf
 
 
 .vscode/*
-VeryBeginning/a.out
-VeryBeginning/HelloWorld
-VeryBeginning/conditions
-VeryBeginning/helloworld
-VeryBeginning/variables
-VeryBeginning/arrays
-VeryBeginning/strings
-VeryBeginning/UserInput
 VeryBeginning/.vscode/*
-VeryBeginning/Pointers
+!/VeryBeginning/*.c
